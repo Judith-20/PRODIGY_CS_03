@@ -11,7 +11,6 @@ A simple **Password Strength Checker** built with Python and Tkinter. It provide
 - [Packaging the Application](#packaging-the-application)
 - [How It Works](#how-it-works)
 - [Example](#example)
-- [License](#license)
 - [Contributing](#contributing)
 
 ## Features
